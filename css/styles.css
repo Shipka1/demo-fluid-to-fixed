@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: sans-serif;
+}
+
+header,
+footer {
+    background-color: #115194;
+    margin-bottom: 24px;
+}
+
+nav {
+    background-color: #4bb19d;
+    padding: 16px;
+}
+
+.banner {
+    background-color: #b8bac3;
+    padding: 288px 0;
+    margin-bottom: 24px;
+
+}
+
+.promo {
+    background-color: darkblue;
+    padding: 128px 0px;
+    margin-bottom: 24px;
+}
+
+footer {
+    padding: 48px 0;
+}
